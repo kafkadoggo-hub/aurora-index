@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index>
+<elements>
+  <info>
+    <name>My Supplements</name>
+    <description>Custom Aurora Index</description>
+    <author>YourName</author>
+  </info>
+
   <supplements>
     <supplement>
       <name>Basic Pack</name>
       <version>1.0.0</version>
-      <author>Aurora Team</author>
-      <url>https://raw.githubusercontent.com/aurorabuilder/elements/master/basic.pack</url>
-      <description>Core supplement for Aurora Builder</description>
+      <file>https://raw.githubusercontent.com/aurorabuilder/elements/master/basic.pack</file>
     </supplement>
   </supplements>
-</index>
+</elements>

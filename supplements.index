@@ -1,14 +1,12 @@
-{
-  "supplements": [
-    {
-      "name": "Basic Pack",
-      "version": "1.0.0",
-      "author": "Aurora Team",
-      "url": "https://raw.githubusercontent.com/aurorabuilder/elements/master/basic.pack",
-      "description": "Core supplement for Aurora Builder",
-      "requires": [],
-      "icon": "",
-      "tags": ["core", "default"]
-    }
-  ]
-}
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <supplements>
+    <supplement>
+      <name>Basic Pack</name>
+      <version>1.0.0</version>
+      <author>Aurora Team</author>
+      <url>https://raw.githubusercontent.com/aurorabuilder/elements/master/basic.pack</url>
+      <description>Core supplement for Aurora Builder</description>
+    </supplement>
+  </supplements>
+</index>
